@@ -13,7 +13,7 @@ Python 支持各种数据结构的推导式：
 [表达式 for 变量 in 列表] 
 [out_exp_res for out_exp in input_list]
 
-或者 
+或者
 
 [表达式 for 变量 in 列表 if 条件]
 [out_exp_res for out_exp in input_list if condition]
