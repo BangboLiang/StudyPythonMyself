@@ -78,6 +78,8 @@ print(No_abc_Set)
 另外元组推导式返回的结果是一个生成器对象。
 例如，我们可以使用下面的代码生成一个包含数字 1~9 的元组：
 '''
+
+
 a = (i for i in range(1,10))
 print(a)
 b = tuple(a)
