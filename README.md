@@ -7,4 +7,4 @@ The comments are written by Chinese.
 
 
 
-For more Information, please click here:https://github.com/BangboLiang/BangboLiang.github.io
+For more Information, please click here:https://BangboLiang.github.io
