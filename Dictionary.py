@@ -62,7 +62,7 @@ print("tinydict2['Name']: ", tinydict2['Name'])
 # tinydict3 = {['Name']: 'William', 'Age': 23}
 # print ("tinydict3['Name']: ", tinydict3['Name'])
 # Traceback (most recent call last):
-#   File "dictionary.py", line 62, in <module>
+#   File "Dictionary.py", line 62, in <module>
 #     tinydict3 = {['Name']: 'William', 'Age': 23}
 # TypeError: unhashable type: 'list'
 
