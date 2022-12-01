@@ -49,7 +49,7 @@ del tup2del
 # print (tup2del)
 # 以上实例元组被删除后，输出变量会有异常信息，输出如下所示：
 # Traceback (most recent call last):
-#   File "tuple.py", line 49, in <module>
+#   File "Tuple.py", line 49, in <module>
 #     print (tup2del)
 # NameError: name 'tup2del' is not defined
 
